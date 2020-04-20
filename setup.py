@@ -4,9 +4,9 @@ with open('README.md') as readme_file:
     README = readme_file.read()
 
 setup_args = dict(
-    name='heat_index_calculater',
+    name='heat_index',
     version='0.0.1',
-    description='Useful tools calculate heat index in Python',
+    description='A simple tool to calculate heat index in Python',
     long_description_content_type="text/markdown",
     long_description=README,
     license='MIT',

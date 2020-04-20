@@ -1,5 +1,5 @@
 import unittest
-from heat_index_calculator import calculate
+from heat_index import calculate
 
 
 class TestCalculateMethods(unittest.TestCase):
